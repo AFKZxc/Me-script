@@ -9,7 +9,7 @@ Window:AddYoutube('https://www.youtube.com/https://www.youtube.com/@user-bf4rn8s
 Window:AddWebsite('https://example.com/企鹅号1759437335')
 Window:AddDiscord('https://discord.gg/https://discord.com/invite/WyknBQxTNA')
 
-local General = Window:NewTab('主页','earth') -- [[Icon: ads list folder earth locked home positon notify close color]]
+local General = Window:NewTab('General','earth') -- [[Icon: ads list folder earth locked home positon notify close color]]
 local Setting = Window:NewTab('Setting','list')
 local Example = General:NewSection('Example','positon','left') -- [left , right]
 local RightSection = General:NewSection('Section','ads','right')
